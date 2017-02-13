@@ -1,4 +1,5 @@
 <?php
+echo "ashwini";
 $node = new stdclass;
 $node->software_company['company'] = 'indianic';
 $node->software_company[0]['Department'] = 'web';
